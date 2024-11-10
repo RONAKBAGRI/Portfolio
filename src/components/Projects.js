@@ -9,17 +9,17 @@ import project3Image from "../assets/resume.png";
 const projects = [
   {
     name: "Student Sync",
-    github: "https://github.com/RONAKBAGRI/Projects/tree/main/StudentSync",
+    github: "https://ronakbagri.github.io/Student-Sync/",
     image: project1Image
   },
   {
     name: "Tic-Tac-Toe",
-    github: "https://github.com/RONAKBAGRI/Projects/tree/main/TicTacToe",
+    github: "https://ronakbagri.github.io/Tic-Tac-Toe/",
     image: project2Image
   },
   {
     name: "Portfolio",
-    github: "https://github.com/RONAKBAGRI/Projects/tree/main/portfolio",
+    github: "https://ronakbagri.github.io/Portfolio/",
     image: project3Image
   },
   // Add more projects here
@@ -40,7 +40,7 @@ function Projects() {
               rel="noopener noreferrer"
               className="project-link"
             >
-              View on GitHub
+              View
             </a>
           </div>
         ))}
