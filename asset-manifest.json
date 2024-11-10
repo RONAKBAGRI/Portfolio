@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c51c7dd4.css",
+    "main.js": "/Portfolio/static/js/main.b687570d.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Education-Download-PNG.png": "/Portfolio/static/media/Education-Download-PNG.dbf3cc4b7df33953356e.png",
+    "static/media/codeiox.png": "/Portfolio/static/media/codeiox.a6e0d7af37c7344d5631.png",
+    "static/media/code.png": "/Portfolio/static/media/code.04deadbe73dfbdbdc4a3.png",
+    "static/media/photo.jpg": "/Portfolio/static/media/photo.ddfdf0db1c5d820288bd.jpg",
+    "static/media/hobby.jpg": "/Portfolio/static/media/hobby.fb66277744d4b9b1e1b2.jpg",
+    "static/media/css.png": "/Portfolio/static/media/css.4c132d518acbd3ad94c6.png",
+    "static/media/adaptation.png": "/Portfolio/static/media/adaptation.e4941d5a1aba78fb1f7f.png",
+    "static/media/dp.jpg": "/Portfolio/static/media/dp.553cf3198a8f50e31984.jpg",
+    "static/media/conversation.png": "/Portfolio/static/media/conversation.f135fa8e012eb62180d6.png",
+    "static/media/react.png": "/Portfolio/static/media/react.9e725de32f7ba9e40c5a.png",
+    "static/media/solution.png": "/Portfolio/static/media/solution.360fc21225c8d0ad0b81.png",
+    "static/media/mern.png": "/Portfolio/static/media/mern.6007d5df05ac9aad16e0.png",
+    "static/media/onshape.png": "/Portfolio/static/media/onshape.b831399c231986e5e866.png",
+    "static/media/JavaScript-logo.png": "/Portfolio/static/media/JavaScript-logo.66a3dfbc82fdbf70e8a6.png",
+    "static/media/time-management.png": "/Portfolio/static/media/time-management.4394d58b8121b2464c7e.png",
+    "static/media/tic-tac-toe.png": "/Portfolio/static/media/tic-tac-toe.e91c2911a4f07cd7594a.png",
+    "static/media/resume.png": "/Portfolio/static/media/resume.aed74009fe5cd36849f0.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.48cd573a5e98236878ef.png",
+    "static/media/html.png": "/Portfolio/static/media/html.9d6471aeed108afe4c0a.png",
+    "static/media/express.png": "/Portfolio/static/media/express.b44f5a4b0ab040328aac.png",
+    "static/media/python.svg": "/Portfolio/static/media/python.62e8a4442709e711eb8c89041804c775.svg",
+    "static/media/cplus.svg": "/Portfolio/static/media/cplus.604fcb2c7f9f6668eba1f26b4958046c.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/StudySyn.svg": "/Portfolio/static/media/StudySyn.4ac9240eb8a18399b53c3a13d406241a.svg",
+    "main.c51c7dd4.css.map": "/Portfolio/static/css/main.c51c7dd4.css.map",
+    "main.b687570d.js.map": "/Portfolio/static/js/main.b687570d.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51c7dd4.css",
+    "static/js/main.b687570d.js"
+  ]
+}
