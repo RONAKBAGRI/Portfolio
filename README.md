@@ -40,5 +40,5 @@ To get started with the project, follow these steps:
 
 2. **Visit my website:**
    ```bash
-   Click to go https://ronakbagri.github.io/Portfolio/
+   Click to go [here](https://ronakbagri.github.io/Portfolio/)
    
