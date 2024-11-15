@@ -38,7 +38,6 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/RONAKBAGRI/Portfolio
 
-2. **Visit my website:**
-   ```bash
-   Click to go [here](https://ronakbagri.github.io/Portfolio/)
-   
+2**Visit my website:**
+[Click to go here](https://ronakbagri.github.io/Portfolio/)
+
